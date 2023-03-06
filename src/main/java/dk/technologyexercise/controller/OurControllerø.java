@@ -14,7 +14,11 @@ public class OurControllerø {
         return "MasterBlaster!";
     }
     @GetMapping
-    public String driving(){
+    public String driving() {
         return "vroom vroom";
+    }
+    @GetMapping
+    public String atgaapaalokum(){
+        return "prøv med cream";
     }
 }
