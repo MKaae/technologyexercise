@@ -13,4 +13,8 @@ public class OurControllerø {
     public String shout(){
         return "MasterBlaster!";
     }
+    @GetMapping
+    public String tørhud(){
+        return "prøv med cream";
+    }
 }
