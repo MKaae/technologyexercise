@@ -11,6 +11,6 @@ public class OurControllerø {
     }
     @GetMapping
     public String shout(){
-        return "ROAR!";
+        return "MasterBlaster!";
     }
 }
