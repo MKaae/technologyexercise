@@ -21,4 +21,8 @@ public class OurControllerø {
     public String atgaapaalokum(){
         return "prøv med cream";
     }
+    @GetMapping
+    public String viskalaltsåpålokummathis(){
+        return "lokum";
+    }
 }
