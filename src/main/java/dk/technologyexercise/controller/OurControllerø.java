@@ -32,4 +32,6 @@ public class OurControllerø {
     
     //JEG HAR TILFØJET DENNE LINJE TIL MIN FORK
 
+    // NU TILFØJER JEG EN NU LINJE TIL MIN BRANCH
+
 }
