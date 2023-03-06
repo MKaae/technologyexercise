@@ -25,4 +25,5 @@ public class OurControllerø {
     public String viskalaltsåpålokummathis(){
         return "lokum";
     }
+    //Stop med at lave grimme navne på min github Lars.
 }
