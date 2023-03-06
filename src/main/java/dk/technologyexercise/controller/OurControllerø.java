@@ -14,7 +14,7 @@ public class OurControllerø {
         return "MasterBlaster!";
     }
     @GetMapping
-    public String tørhud(){
+    public String atgaapaalokum(){
         return "prøv med cream";
     }
 }
