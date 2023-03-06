@@ -22,8 +22,12 @@ public class OurControllerø {
         return "prøv med cream";
     }
     @GetMapping
-    public String shouting(){
+    public String shouting() {
         return "Very angry shouts";
     }
+    public String gøredet(){
+        return "lokum";
+    }
     //Stop med at lave grimme navne på min github Lars.
+
 }
