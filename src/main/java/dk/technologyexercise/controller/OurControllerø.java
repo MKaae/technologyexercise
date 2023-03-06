@@ -22,8 +22,9 @@ public class OurControllerø {
         return "prøv med cream";
     }
     @GetMapping
-    public String viskalaltsåpålokummathis(){
+    public String gøredet(){
         return "lokum";
     }
     //Stop med at lave grimme navne på min github Lars.
+
 }
